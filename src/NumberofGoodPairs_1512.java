@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class NumberofGoodPairs_1512 {
     public static void main(String[] args) {
